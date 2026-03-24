@@ -1,6 +1,6 @@
 #!name = Locket Gold Only
 #!desc = Cấu hình tách lẻ mở khóa Locket Gold
-#!author = [hoangtumeo001]
+#!author = hoangtumeo001
 
 [Header Rewrite]
 # Xóa bộ nhớ đệm (cache) của hệ thống thanh toán RevenueCat
